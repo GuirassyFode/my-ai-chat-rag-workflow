@@ -26,6 +26,7 @@ This repository contains an [n8n](https://n8n.io) workflow that powers a **chat-
 |----------------------------|------------------|
 | ![Chat Trigger]<img width="1910" height="952" alt="Screenshot 2025-07-26 at 10 44 10 PM" src="https://github.com/user-attachments/assets/b26a640b-53e1-4ea9-90fa-43d7fd3f21ff" />
  ![Supabase Vector](<img width="880" height="435" alt="Screenshot 2025-07-27 at 11 26 45 AM" src="https://github.com/user-attachments/assets/e741cf3b-ef94-44c8-9f74-6d9ccfc8c940" />
+ <img width="1913" height="938" alt="Screenshot 2025-07-27 at 12 23 32 PM" src="https://github.com/user-attachments/assets/5da16bcc-2d2f-42db-ac95-e56f79a3ba66" />
 ) |
 
 ---
